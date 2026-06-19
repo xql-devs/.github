@@ -1,0 +1,25 @@
+<svg width="260" height="100" viewBox="0 0 260 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="xql">
+  <!-- 3x3 chunked grid = N-dimensional Zarr array -->
+  <g>
+    <rect x="10"  y="17"  width="18" height="18" rx="3" fill="#334155"/>
+    <rect x="34"  y="17"  width="18" height="18" rx="3" fill="#334155"/>
+    <rect x="58"  y="17"  width="18" height="18" rx="3" fill="#334155"/>
+
+    <rect x="10"  y="41"  width="18" height="18" rx="3" fill="#334155"/>
+    <!-- highlighted cell = the queried slice -->
+    <rect x="34"  y="41"  width="18" height="18" rx="3" fill="#06b6d4"/>
+    <rect x="58"  y="41"  width="18" height="18" rx="3" fill="#334155"/>
+
+    <rect x="10"  y="65"  width="18" height="18" rx="3" fill="#334155"/>
+    <rect x="34"  y="65"  width="18" height="18" rx="3" fill="#334155"/>
+    <rect x="58"  y="65"  width="18" height="18" rx="3" fill="#334155"/>
+  </g>
+
+  <!-- query caret = SQL pointed at the array -->
+  <path d="M92 33 L112 50 L92 67" stroke="#06b6d4" stroke-width="8"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- wordmark -->
+  <text x="132" y="62" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="40" font-weight="700" fill="#0f172a">xql</text>
+</svg>

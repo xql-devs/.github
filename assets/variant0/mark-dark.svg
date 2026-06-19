@@ -1,0 +1,24 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="xql mark">
+  <!-- rounded square backdrop -->
+  <rect width="128" height="128" rx="28" fill="#0f172a"/>
+
+  <!-- 3x3 chunked grid = N-dimensional Zarr array -->
+  <g>
+    <rect x="22" y="22" width="20" height="20" rx="4" fill="#475569"/>
+    <rect x="48" y="22" width="20" height="20" rx="4" fill="#475569"/>
+    <rect x="74" y="22" width="20" height="20" rx="4" fill="#475569"/>
+
+    <rect x="22" y="48" width="20" height="20" rx="4" fill="#475569"/>
+    <!-- highlighted cell = the queried slice -->
+    <rect x="48" y="48" width="20" height="20" rx="4" fill="#06b6d4"/>
+    <rect x="74" y="48" width="20" height="20" rx="4" fill="#475569"/>
+
+    <rect x="22" y="74" width="20" height="20" rx="4" fill="#475569"/>
+    <rect x="48" y="74" width="20" height="20" rx="4" fill="#475569"/>
+    <rect x="74" y="74" width="20" height="20" rx="4" fill="#475569"/>
+  </g>
+
+  <!-- query caret = SQL pointed at the array -->
+  <path d="M100 50 L114 64 L100 78" stroke="#06b6d4" stroke-width="7"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

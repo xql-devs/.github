@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="xql x-monogram mark">
+  <rect width="128" height="128" rx="28" fill="#0f172a"/>
+  <!-- four grid corners = array axes endpoints -->
+  <rect x="26" y="26" width="18" height="18" rx="4" fill="#475569"/>
+  <rect x="84" y="26" width="18" height="18" rx="4" fill="#475569"/>
+  <rect x="26" y="84" width="18" height="18" rx="4" fill="#475569"/>
+  <rect x="84" y="84" width="18" height="18" rx="4" fill="#475569"/>
+  <!-- crossed axes forming the x -->
+  <path d="M35 35 L93 93" stroke="#475569" stroke-width="11" stroke-linecap="round"/>
+  <path d="M93 35 L35 93" stroke="#06b6d4" stroke-width="11" stroke-linecap="round"/>
+</svg>

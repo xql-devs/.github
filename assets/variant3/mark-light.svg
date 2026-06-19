@@ -1,0 +1,28 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="xql select-region mark">
+  <!-- 4x4 array grid -->
+  <g fill="#334155">
+    <rect x="22" y="22" width="16" height="16" rx="3"/>
+    <rect x="44" y="22" width="16" height="16" rx="3"/>
+    <rect x="66" y="22" width="16" height="16" rx="3"/>
+    <rect x="88" y="22" width="16" height="16" rx="3"/>
+
+    <rect x="22" y="44" width="16" height="16" rx="3"/>
+    <rect x="66" y="44" width="16" height="16" rx="3"/>
+
+    <rect x="22" y="66" width="16" height="16" rx="3"/>
+    <rect x="88" y="66" width="16" height="16" rx="3"/>
+
+    <rect x="22" y="88" width="16" height="16" rx="3"/>
+    <rect x="44" y="88" width="16" height="16" rx="3"/>
+    <rect x="66" y="88" width="16" height="16" rx="3"/>
+    <rect x="88" y="88" width="16" height="16" rx="3"/>
+  </g>
+  <!-- SELECTed 2x2 slice -->
+  <g fill="#06b6d4">
+    <rect x="44" y="44" width="16" height="16" rx="3"/>
+    <rect x="66" y="44" width="16" height="16" rx="3"/>
+    <rect x="44" y="66" width="16" height="16" rx="3"/>
+    <rect x="66" y="66" width="16" height="16" rx="3"/>
+  </g>
+  <rect x="40" y="40" width="46" height="46" rx="5" fill="none" stroke="#06b6d4" stroke-width="2.5"/>
+</svg>

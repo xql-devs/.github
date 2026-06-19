@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="xql sliced-layers mark">
+  <!-- stacked array layers, middle = the sliced/queried plane -->
+  <path d="M64 72 L102 88 L64 104 L26 88 Z" fill="#334155"/>
+  <path d="M64 48 L102 64 L64 80 L26 64 Z" fill="#06b6d4"/>
+  <path d="M64 24 L102 40 L64 56 L26 40 Z" fill="#334155"/>
+</svg>
