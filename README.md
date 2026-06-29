@@ -1,7 +1,7 @@
-# xql-devs .github
+# xql.systems github
 
 This special repository defines the public profile and default community health
-files for the [xql-devs organization](https://github.com/xql-devs).
+files for the [xqlsystems organization](https://github.com/xqlsystems).
 
 For details about how GitHub uses this repository, see:
 
