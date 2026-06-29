@@ -1,4 +1,4 @@
-# xql-devs
+# xql.systems
 
 We're building a **SQL layer on top of [Zarr](https://zarr.dev/)** — bringing
 familiar, declarative SQL querying to multidimensional array data.
